@@ -10,17 +10,17 @@ Ask me for permission first if you wish to use larger portions of this code, mak
 
 # Overview
 
-The Skill Scaling Patch fixes a number of bugs or inconsistencies about the way skills scale with level, and across playthroughs. It is not meant to "fix" the balance of the game according to my personal preferences, but merely to make it work as was (most probably) intended. It does clearly improve some aspects of the balance, though. The skills that are the most affected are Ruin (Maya), Light the Fuse (Krieg), Deathtrap and all its damage abilities (Gaige), the Sabre Turret and all its damage abilities (Axton).
+NT-AreaScaling makes all areas and side-missions progressively scale up according to your progress in the main mission, in Normal mode and TVHM. 
 
-Concerning Deathtrap and the Sabre Turret, the main problem addressed by this patch was actually not present on console. With the Skill Scaling Patch, their damage output should thus be identical (or close) to what it is on console. And that makes a huge difference on their end-game viability.
 
 # Compatibility
 
-The Skill Scaling Patch can be used as a standalone, for a vanilla experience with less bugs, and to meet Deathtrap and the Sabre Turret the way they were supposed to be (and actually are, on console).
+NT-AreaScaling should be compatible with any other mods, as long as these mods do not touch the area level definitions (I don't know of any mod that does, but I don't know everything).
 
-The Skill Scaling Patch (v1.0) is included in the Unofficial Community Patch, as of version 4.1.
+NT-AreaScaling can be applied before loading any save game: it should automatically scale up the relevant areas. If you reload the save later on without NT-AreaScaling, the areas will go back within the acceptable limits in vanilla.
 
-You can also try to merge it with other mods, using [BLCMM](https://www.youtube.com/watch?v=VkRgUqru3oU&t=27s). However, this may create serious incompatibilities if the other mods affect the skills modified by the Skill Scaling Patch, or even skills in general. I'd recommend adding the Skill Scaling Patch after other mods, and disabling any changes affecting the mentioned skills, in those other mods. 
+NT-AreaScaling.blcm is a relatively big file (about half the UCP), so it may take a few seconds to load. The DLC sections may be disabled at will with BLCMM (in case you don't own some of them, or if you don't want to play them with the NT-AreaScaling modifications). NT-AreaScaling does absolutely nothing in UVHM, so there's not much point loading it when playing in UVHM.
+
 
 # Detailed changes
 
