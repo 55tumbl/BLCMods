@@ -12,9 +12,9 @@ Ask me for permission first if you wish to use larger portions of this code, mak
 
 NT-AreaScaling makes all areas and side-missions progressively scale up according to your advancement in the main mission, in Normal mode and TVHM. Level restrictions on the DLCs are lifted, so they can be played anytime during NVHM/TVHM, and they will also scale up according to the progress in the main game story.
 
-This means that you can go back and farm Knuckledragger for a Hornet at level 18, for example. Or start Tiny Tina's DLC at level 8, do a couple missions before coming back to the main game... and return to finish that DLC at level 28. Or farm the snowman over and over and over and over.
+This means that you can for example go back and farm Knuckledragger for a Hornet at level 18. Or start Tiny Tina's DLC at level 8, do a couple missions before coming back to the main game, and return to finish the DLC at level 28. Or farm the snowman over and over and over and over..
 
-Unlike the "Level 1 UHVM" mod, the areas/missions will not always be systematically at your level (but often close enough). But it does not change anything else about the Normal mode and TVHM playthroughs.
+Unlike the "Level 1 UHVM" mod, the areas/missions will not always be systematically at your level (but often close enough). But it does not change anything else about the balance in Normal mode and TVHM.
 
 # Compatibility
 
