@@ -31,7 +31,7 @@ It is a relatively big file (2.4M, about half the UCP), so it may take a few sec
 
 ## Normal mode
 
-* Turning in one of the main story missions (not all of them, but most) will make all previous areas, and non-accepted side missions, scale up to your level, within certain limits (for example, after finishing Wildlife Preservation, all areas should scale up to 19-21).
+* Turning in one of the main story missions (not all of them, but most) will make all previous areas and non-accepted side missions scale up to your level, within certain limits (for example, after finishing Wildlife Preservation, all areas should scale up to 19-21).
 * Some areas will scale up directly, **others may require a save/quit**.
 * Missions that have already been accepted (and their rewards) will never scale up, but the areas in which they take place, and the enemies you fight, should scale up.
 * Finishing the main story and killing the Warrior will make all areas scale up to level 30.
@@ -53,20 +53,6 @@ It is a relatively big file (2.4M, about half the UCP), so it may take a few sec
 * All DLCs will scale to your level (when you first travel to the area), at any level between 30 and 50.
 * Progress in the main game story will scale up the already visited areas in the DLC, same system as in Normal mode.
 * The DLC raid bosses and some missions that were locked at level 50, can now be played at any level between 30 and 50. They  will also scale up: e.g. you can fight Pyro Pete at level 42, and then come back after killing the Warrior, and fight Pyro Pete at level 50.
-
-## Main story missions that trigger area scaling
-* Pan B
-* Hunting the Firehawk
-* A Dam Fine Rescue
-* A Train to Catch
-* Bright Lights, Flying City
-* Wildlife Preservation
-* The Once and Future Slab
-* The Man who would be Jack
-* Where Angels Fear to Tread
-* Toil and Trouble
-* Data Mining
-* The Talon of God
 
 # Credits
 
