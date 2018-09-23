@@ -16,7 +16,7 @@ This means that you can for example go back and farm Knuckledragger for a Hornet
 
 Unlike the "Level 1 UHVM" mod, the areas/missions will not always be systematically at your level (but often close enough). But it does not change anything else about the balance in Normal mode and TVHM.
 
-*Note: the system has been tested, and seems to be working fine. However, I can't possibly check everything, since this kind of testing takes a lot of time. So let me know if you notice something weird, or undesirable side-effects.*
+*Note: the system has been tested, and seems to be working fine. However, I haven't tested the mod very extensively, and I can't possibly check everything, since this kind of testing takes a lot of time. So let me know if you notice something weird, or if there are undesirable side-effects.*
 
 # Compatibility
 
