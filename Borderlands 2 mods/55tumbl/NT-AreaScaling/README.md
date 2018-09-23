@@ -10,8 +10,9 @@ Ask me for permission first if you wish to use larger portions of this code, mak
 
 # Overview
 
-NT-AreaScaling makes all areas and side-missions progressively scale up according to your progress in the main mission, in Normal mode and TVHM. 
+NT-AreaScaling makes all areas and side-missions progressively scale up according to your advancement in the main mission, in Normal mode and TVHM. Level restrictions on the DLCs are lifted, so they can be played anytime during NVHM/TVHM, and they will also scale up according to the progress in the main game story.
 
+This means that you can go back and farm Knuckledragger for a Hornet at level 18, for example. Or start Tiny Tina's DLC at level 8, do a couple missions before coming back to the main game... and return to finish that DLC at level 28. Or farm the snowman over and over and over and over.
 
 # Compatibility
 
@@ -19,19 +20,19 @@ NT-AreaScaling should be compatible with any other mods, as long as these mods d
 
 NT-AreaScaling can be applied before loading any save game: it should automatically scale up the relevant areas. If you reload the save later on without NT-AreaScaling, the areas will go back within the acceptable limits in vanilla.
 
-NT-AreaScaling.blcm is a relatively big file (about half the UCP), so it may take a few seconds to load. The DLC sections may be disabled at will with BLCMM (in case you don't own some of them, or if you don't want to play them with the NT-AreaScaling modifications). NT-AreaScaling does absolutely nothing in UVHM, so there's not much point loading it when playing in UVHM.
+It is a relatively big file (2.4M, about half the UCP), so it may take a few seconds to load. The DLC sections may be disabled at will using BLCMM (in case you don't own some of the DLCs, or if you don't want to play them with the NT-AreaScaling modifications). NT-AreaScaling does absolutely nothing in UVHM, so there's not much point loading it when playing in UVHM.
 
 
 # Detailed changes
 
-You can find [here](http://blstats.com/skilldamage.php) all the damage values at different levels/playthroughs, on console and on PC/mac (with or without the Skill Scaling Patch).
+## Normal mode
 
-## Maya
-
-**Ruin (elemental explosions and DOTs)**: made to scale like other skills and removed the level 72 cap.    
-* Damage increase of +60% at level 30, +100% at level 50, +144% at 72, +590% at OP8.    
-* This also affects the Burn and Corrode DOTs that can be caused by Blight Phoenix (but not the main Blight Phoenix damage). 
-* This also affects the Corrode DOT that can be caused by Cloud Kill (but not the main Cloud Kill damage). Since the DOT is very small, this has practically no effect on the overall Cloud Kill damage (about +1.5% at OP8). 
+* Turning in one of the main story missions listed below will make all previous areas (and non-accepted side missions) scale up to your level, within certain limits.
+* Some areas will scale up directly, **others may require a save/quit (notably the DLC areas)**.
+* Side-missions and DLC missions that have already been accepted (and their rewards) will never scale up, but the areas in which they take place, and the enemies you fight, should scale up.
+* Finishing the main story and killing the Warrior will make all areas scale up to level 30.
+* The mission You. Will. Die. (Terramorphous) should be between level 30 and 35 (depending on your level when you finish the main story). Completing this mission will make all areas in the main game and headhunter DLCs scale up to 35.
+* The raid boss missions in the 4 main DLCs will also be between level 30 and 35.
 
 **Phaselock (damage on non-phaselockable targets)**: made to scale like other skills.   
 * Damage increase of +60% at level 30, +100% at level 50, +144% at 72, +160% at OP8
