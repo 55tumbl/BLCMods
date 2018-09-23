@@ -14,6 +14,8 @@ NT-AreaScaling makes all areas and side-missions progressively scale up accordin
 
 This means that you can go back and farm Knuckledragger for a Hornet at level 18, for example. Or start Tiny Tina's DLC at level 8, do a couple missions before coming back to the main game... and return to finish that DLC at level 28. Or farm the snowman over and over and over and over.
 
+Unlike the "Level 1 UHVM" mod, the areas/missions will not always be systematically at your level (but often close enough). But it does not change anything else about the Normal mode and TVHM playthroughs.
+
 # Compatibility
 
 NT-AreaScaling should be compatible with any other mods, as long as these mods do not touch the area level definitions (I don't know of any mod that does, but I don't know everything).
@@ -27,18 +29,28 @@ It is a relatively big file (2.4M, about half the UCP), so it may take a few sec
 
 ## Normal mode
 
-* Turning in one of the main story missions listed below will make all previous areas (and non-accepted side missions) scale up to your level, within certain limits.
+* Turning in one of the main story missions will make all previous areas (and non-accepted side missions) scale up to your level, within certain limits.
 * Some areas will scale up directly, **others may require a save/quit**.
 * Missions that have already been accepted (and their rewards) will never scale up, but the areas in which they take place, and the enemies you fight, should scale up.
 * Finishing the main story and killing the Warrior will make all areas scale up to level 30.
-* The mission You. Will. Die. (Terramorphous) will now be between level 30 and 35 (depending on your level when you finish the main story). Completing this mission will make all areas in the main game and headhunter DLCs scale up to 35.
+* The mission You. Will. Die. (Terramorphous) will be between level 30 and 35 (depending on your level when you finish the main story). Completing this mission will make all areas in the main game and headhunter DLCs scale up to 35.
+* Some areas like Caustic Caverns or Lynchwood have a special behavior in the vanilla game, which is mostly conserved here. But they will also scale to 30/35 after killing the Warrior/Terra.
 
 **DLCs**
-* All DLCs will scale to your level (when you first travel to the area), between level 5 and 35.
-* Progress in the main game story will scale up the already visited areas in the DLC (this seems to always require a save/quit).
+* All DLCs will scale to your level (when you first travel to the area), at any level between 5 and 35.
+* Progress in the main game story will scale up the already visited areas in the DLC. For the DLCs areas, a save/quit generally seems to be required.
 * The DLC raid boss missions (as well as some arena fights like in Murderlin's Temple) will be between level 30 and 35.
 * Completing the raid boss mission (Hyperius, Pyro Pete, Vorac, Dragons) will make all areas in the corresponding DLC scale up to level 35.
 
+## TVHM
+
+* Same thing, except that the Terramorphous mission is level 50, as in vanilla.
+* Finishing the main story and killing the Warrior will make all areas scale up to level 50, as in vanilla.
+
+**DLCs**
+* All DLCs will scale to your level (when you first travel to the area), at any level between 30 and 50.
+* Progress in the main game story will scale up the already visited areas in the DLC, same system as in Normal mode.
+* The DLC raid bosses and some missions that were locked at level 50, can now be played at any level between 30 and 50. They  will also scale up: e.g. you can fight Pyro Pete at level 42, and then come back after killing the Warrior, and fight Pyro Pete at level 50.
 
 
 # Credits
