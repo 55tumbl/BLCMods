@@ -52,7 +52,7 @@ It is a relatively big file (2.4M, about half the UCP), so it may take a few sec
 **DLCs**
 * All DLCs will scale to your level (when you first travel to the area), at any level between 30 and 50.
 * Progress in the main game story will scale up the already visited areas in the DLC, same system as in Normal mode.
-* The DLC raid bosses and some missions that were locked at level 50, can now be played at any level between 30 and 50. They  will also scale up: e.g. you can fight Pyro Pete at level 42, and then come back after killing the Warrior, and fight Pyro Pete at level 50.
+* The DLC raid bosses and some missions that were locked at level 50, can now be played at any level between 30 and 50. They  will also scale up: e.g. you can fight Pyro Pete at level 42, and then come back later to fight him again at level 48.
 
 # Credits
 
