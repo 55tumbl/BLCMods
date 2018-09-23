@@ -22,7 +22,7 @@ NT-AreaScaling should be compatible with any other mods, as long as these mods d
 
 NT-AreaScaling can be applied before loading any save game: it should automatically scale up the relevant areas. If you reload the save later on without NT-AreaScaling, the areas will go back within the acceptable limits in vanilla.
 
-It is a relatively big file (2.4M, about half the UCP), so it may take a few seconds to load. The DLC sections may be disabled at will using BLCMM (in case you don't own some of the DLCs, or if you don't want to play them with the NT-AreaScaling modifications). NT-AreaScaling does absolutely nothing in UVHM, so there's not much point loading it when playing in UVHM.
+It is a relatively big file (2.4MB, more than half the UCP), so it may take a few seconds to load. The DLC sections may be disabled at will using BLCMM (in case you don't own some of the DLCs, or if you don't want to play them with the NT-AreaScaling modifications). NT-AreaScaling does absolutely nothing in UVHM, so there's not much point loading it when playing in UVHM.
 
 
 # Detailed changes
